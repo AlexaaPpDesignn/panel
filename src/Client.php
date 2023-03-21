@@ -64,10 +64,10 @@ class Client
     public function getDefaultParameters()
     {
         return [
-            'apiUsername' => '',
-            'apiPassword' => '',
+            'apiUsername' => 'Z30AFSOmEUrFRBzqv6WCXDxTofIbUdr3HI1NDifSKkbnWE86JAOioPKZxYn2QDyiUyyiPK2nwfAzgrIaKmbJXQAUBgB21y2SufoSfjZ5V45pXeFVgGijAE2v8qYMhumu0mZteKeA3kqA4WFLc8mXPr3Yg8WsEruFBNBvqY1IKAvLdGmJPcl57PyHnapLwl5CT2OJUFL7nKeC7K2o06wZpHPhLtTqwEYtortVD0pyszebJ4fkxYKbvxbYcDQjh8P',
+            'apiPassword' => 'O5JEpP6MUejoOobc0S0f979Vh6WILaILVglpEeh3sGLw8Pymk9j40FlKJzim06hAzuMvaHpe7leAzmwlhdzLkWYUMgGmzxVEk3D2h5brCc5wlY4nmptH5XRjqgjYAnJwDnPfc3xAP7MEENZFcrD4wEOzuGYnXia1bm0T1g52dAjsLqTDRGOAtgWe6Gy4yq4Mw1KSPIxsRQy7GEGMGQXysMEFGzvrAWdIh27kztQ0G2BIhQub9MtpuPLtArbIQkp',
             'apiUrl' => 'https://panel.myownfreehost.net:2087/xml-api/',
-            'plan' => '',
+            'plan' => 'freehost',
         ];
     }
 
